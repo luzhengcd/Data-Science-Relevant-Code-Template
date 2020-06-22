@@ -11,7 +11,7 @@ I just finished the udacity A/B testing project, and [here](https://github.com/l
 ## Deep Learning
 
 * I am currently working on a series of projects from the Udacity Nano degree. Here are some [projects](https://github.com/luzhengcd/Udacity-Deep-Learning-Projects) I've done.  
-* I also wrote an artical about [Back propagation](https://medium.com/@lu.zhengcd/back-propagation-and-its-implementation-details-e4a510ab71a6) in deep learning on medium to explain how back propagation works both mathmatically and intuitively. 
+* I also wrote an artical about [Back propagation](https://medium.com/@lu.zhengcd/back-propagation-and-its-implementation-details-e4a510ab71a6) in deep learning on medium to explain how back propagation works both mathematically and intuitively. 
 
 
 ## Algorithms
